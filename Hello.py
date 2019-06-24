@@ -1,1 +1,1 @@
-print("Hello World By Apoorv Garg")
+print("Hello World")
