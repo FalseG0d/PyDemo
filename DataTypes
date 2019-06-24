@@ -1,0 +1,8 @@
+There are no primitive data-types in Python.
+All the data-types are wrapped in a class.
+Type:
+    1.Integer
+    2.String
+    3.Float
+    4.Complex(real(integer)+imaginary(j))
+Any variable is simply a memory location which points to some address
