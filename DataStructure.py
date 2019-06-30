@@ -15,10 +15,10 @@ print(max(myList2))
 print(min(myList2))
 myList3=sorted(myList2)
 print(myList3)
-#String to list
+"String to list"
 number=input().split()
 print(number)
-#Tupples
+"Tupples"
 '''
 1.Immutable
 2.in () seperated by ','
@@ -36,3 +36,15 @@ print(number)
 1.Hash Maps
 d={"key":value,"mango":1}
 '''
+d={"Apple":1,"Mango":2}
+print(type(d))
+print(d)
+print(d["Mango"])
+d["Guava"]=3
+d["Guava"]=[4,5]
+print(d.keys())
+print(d.values())
+d.get("Mango")
+if "Mango" in d:
+    print(d.items())
+    l=list(d.items())
