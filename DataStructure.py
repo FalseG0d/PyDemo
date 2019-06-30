@@ -13,3 +13,8 @@ myList1.pop()
 myList1.insert(2,20)
 print(max(myList2))
 print(min(myList2))
+myList3=sorted(myList2)
+print(myList3)
+#String to list
+number=input().split()
+print(number)
