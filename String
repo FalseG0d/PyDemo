@@ -10,3 +10,4 @@ if "go" in a:
     print("String present")
 print("Hi {} this is {}".format("Apple","Mango"))
 "Hi this is Mango".replace("this","that")
+"apple".lower()
