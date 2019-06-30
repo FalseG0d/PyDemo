@@ -18,3 +18,21 @@ print(myList3)
 #String to list
 number=input().split()
 print(number)
+#Tupples
+'''
+1.Immutable
+2.in () seperated by ','
+3.ex=(1,"Hello",7)
+4.Faster than list
+5.tupple to list
+    l=list(tupple)
+6.list to tupple
+    t=tupple(l)
+7.Functions
+    max(),min(),len()
+'''
+#Dictionary
+'''
+1.Hash Maps
+d={"key":value,"mango":1}
+'''
