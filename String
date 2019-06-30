@@ -1,0 +1,12 @@
+Immutable
+len("Hello")
+"Apple"+"Mango"
+print("Apple"*5)
+a="Mango"
+print(a[1:2])
+print(a[1:])
+print(a[:4])
+if "go" in a:
+    print("String present")
+print("Hi {} this is {}".format("Apple","Mango"))
+"Hi this is Mango".replace("this","that")
