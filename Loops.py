@@ -9,4 +9,5 @@ for i in str:
     print(i,end=" ")
 '''
 flow of control break,continue,pass
+pass:is used when we want to leave a block{} empty
 '''
